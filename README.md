@@ -4,6 +4,15 @@
 
 해당 프로젝트는 **Kotlin**과 **Test-Driven Development(TDD)**을 학습하기 위해 개발된 **Todo List 백엔드 서버**와 연동되는 **프론트엔드** 레포지토리입니다.
 
+🔗 **Backend Repository**: [https://github.com/bhoon716/tdd](https://github.com/bhoon716/tdd)
+
+## ✨ 주요 기능
+
+-   **JWT 인증**: 안전한 로그인 및 회원가입 기능
+-   **Kanban Board**: `Think` → `Do` → `Done` 3단계로 할 일을 체계적으로 관리
+-   **Drag & Drop**: 마우스 드래그로 간편하게 상태 변경
+-   **Dark UI**: 세련되고 눈이 편안한 다크 모드 디자인
+
 ## 🛠 기술 스택
 
 -   **Frontend**: React 18, TypeScript, Vite
